@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Nestor Aziz Sambou
+N:Sambou;Nestor Aziz;;;
+ORG:SERONA SENEGAL
+TITLE:Manageur de marketing
+TEL;TYPE=CELL:+221769795807
+ADR;TYPE=WORK:;;Parcelles assainnies au rond Point Case Bâ, Soprim extension en face Marché gueule tapée;Dakar;;;
+EMAIL;TYPE=WORK:seronasenegl1@gmail.com
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Bob Indian
+N:Indian;Bob;;;
+ORG:SERONA SENEGAL
+TITLE:Responsable Pays
+TEL;TYPE=CELL:+221764091584
+ADR;TYPE=WORK:;;Parcelles assainnies au rond Point Case Bâ, Soprim extension en face Marché gueule tapée;Dakar;;;
+EMAIL;TYPE=WORK:seronasenegl1@gmail.com
+END:VCARD
