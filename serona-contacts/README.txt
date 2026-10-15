@@ -1,0 +1,1 @@
+SERONA SENEGAL contact folder. Files to include: index.html, Nestor_Aziz_Sambou.vcf, Bob_Indian.vcf, SERONA_SENEGAL_Both_Contacts.vcf. The combined VCF imports both contacts in one file. Company field: SERONA SENEGAL.
